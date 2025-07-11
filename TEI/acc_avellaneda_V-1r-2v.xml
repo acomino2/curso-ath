@@ -1,0 +1,100 @@
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:id="quijote_avellaneda">Fragmento del Quijote de Avellaneda</title>
+<author>Alonso Fernández de Avellaneda</author>
+<editor resp="crítica">Florencio Sevilla Arroyo</editor>
+<editor resp="digital">Alba Comino Comino</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>Curso de Experto en Edición Digital (Open Badge): Competencias transversales para la digitalización del patrimonio textual</publisher>
+<availability>
+<licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida: y es la quinta parte de sus aventuras</title>
+<author>Alonso Fernández de Avellaneda</author>
+<publisher>Casa de Felipe Roberto</publisher>
+<date>1614</date>
+<pubPlace>Tarragona, España</pubPlace>
+<objectIdentifier>
+<institution>Biblioteca Nacional (España)</institution>
+<idno>sig. R/32541</idno>
+</objectIdentifier>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n="1r"/>
+<head>
+Quinta parte del ingenioso hidalgo
+<persName key="quijote">Don Quijote de la Mancha</persName>
+, y de su andantesca caballería
+</head>
+<head>
+Capítulo Primero, de cómo
+<persName key="quijote">Don Quijote de la Mancha</persName>
+volvió a sus desvanecimientos de caballero andante, y de la venida a su lugar del
+<placeName key="argamesilla">Argamesilla</placeName>
+de
+<note xml:id="f1rnota1">ciertos caballeros granadinos</note>
+.
+</head>
+<p>
+El sabio
+<persName key="alisolan">Alisolán</persName>
+, historiador no menos moderno que verdadero, dice que siendo expelidos los
+<note xml:id="f1rnota2">moros agarenos</note>
+de
+<placeName key="aragon">Aragón</placeName>
+, de cuya nación él decendía, entre ciertos anales de historias halló
+<note xml:id="f1rnota3">escrita en arábigo</note>
+la tercera salida que hizo del lugar del
+<placeName key="argamesilla">Argamesilla</placeName>
+el invicto hidalgo
+<persName key="quijote">Don Quijote de la Mancha</persName>
+, para ir a unas justas que se hacían en la insigne ciudad de
+<placeName key="zaragoza">Zaragoza</placeName>
+, y dice desta manera:
+</p>
+<p>Después de haber sido lleva-
+
+<pb n="1v"/>
+do <persName key="quijote">don Quijote</persName> por el <persName>cura</persName> y el <persName>barbero</persName> y la hermosa <persName key="dorotea">Dorotea</persName> a su lugar en una jaula, con <persName key="sancho">Sancho Panza</persName>, su escudero, fue metido en un aposento con una muy gruesa y pesada cadena al pie, adonde, no con pequeño regalo de pistos y cosas conservativas y sustanciales, le volvieron poco a poco a su natural juicio. Y para que no volviese a los antiguos desvanecimientos de sus fabulosos libros de caballerías, pasados algunos días de su encerramiento, empezó con mucha instancia a rogar a <persName>Madalena</persName>, su sobrina, que le buscase algún buen libro en que poder entretener aquellos setecientos años que él pensaba estar en aquel duro encantamiento. La cual, por consejo del <persName>cura Pedro Pérez</persName> y de <persName>maese Nicolás</persName>, barbero, le dio un Flos sanctorum de <persName>Villegas</persName> y los Evangelios y Epístolas de todo el año en vulgar, y la Guía de pecadores de <persName>fray Luis de Granada</persName>; con la cual lición, olvidándose de las quimeras de los caballeros andantes, fue reducido dentro de seis meses a su antiguo juicio y suelto de la prisión en que estaba.</p>
+
+<p>Comenzó tras esto a ir a misa con su rosario en las manos, con las Horas de Nuestra Señora, oyendo también con mucha atención los sermones; de tal manera, que ya todos los vecinos del lugar pensaban que totalmente estaba sano de su accidente y daban muchas gracias a Dios, sin osarle decir ninguno, por consejo del <persName>cura</persName>, cosa de las 
+
+<pb n="2r"/>
+que por él habían pasado. Ya no le llamaban <persName key="quijote">don Quijote</persName>, sino el señor <persName>Martín Quijada</persName>, que era su proprio nombre, aunque en ausencia suya tenían algunos ratos de pasatiempo con lo que dél se decía y de que se acordaron todos, como lo del rescatar o libertar los galeotes, lo de la penitencia que hizo en <placeName>Sierra Morena</placeName> y todo lo demás que en las primeras partes de su historia se refiere.</p>
+
+<p>Sucedió, pues, en este tiempo, que, dándole a su <persName>sobrina</persName> el mes de agosto una calentura de las que los físicos llaman efímeras, que son de veinte y cuatro horas, el accidente fue tal, que, dentro dese tiempo, la <persName>sobrina Madalena</persName> murió, quedando el buen <persName key="quijote">hidalgo</persName> solo y desconsolado; pero el <persName>cura</persName> le dio una harto devota vieja y buena cristiana, para que la tuviese en casa, le guisase la comida, le hiciese la cama y acudiese a lo demás del servicio de su persona, y para que, finalmente, les diese aviso a él o al <persName>barbero</persName> de todo lo que <persName key="quijote">don Quijote</persName> hiciese o dijese dentro o fuera de casa, para ver si volvía a la necia porfía de su caballería andantesca.</p>
+
+<p>Sucedió, pues, en este tiempo, que un día de fiesta, después de comer, que hacía un calor excesivo, vino a visitarle <persName key="sancho">Sancho Panza</persName>; y, hallándole en su aposento leyendo en el Flos sanctorum, le dijo:</p>
+
+<p>-¿Qué hace, <persName key="quijote">señor Quijada</persName>? ¿Cómo va?</p>
+
+<p>-¡Oh <persName key="sancho">Sancho</persName>! -dijo <persName key="quijote">don Quijote</persName>-, seas bien venido; siéntate aquí un poco, que a fe que tenía harto deseo
+
+<pb n="2v"/>
+de hablar contigo.</p>
+
+<p>-¿Qué libro es ese -dijo <persName key="sancho">Sancho</persName>- en que lee su mercé? ¿Es de algunas caballerías como aquellas que nosotros anduvimos tan neciamente el otro año? Lea un poco, por su vida, a ver si hay algún escudero que medrase mejor que yo; que por vida de mi sayo, que me costó la burla de la caballería más de veinte y seis reales, mi buen rucio, que me hurtó <persName>Ginesillo el buena boya</persName>, y yo me quedo tras todo eso sin ser rey ni roque, si ya estas carnestoliendas no me hacen los muchachos rey de los gallos. En fin, todo mi trabajo ha sido hasta agora en vano.</p>
+
+<p>-No leo -dijo <persName key="quijote">don Quijote</persName>- en libro de caballerías, que no tengo alguno; pero leo en este Flos sanctorum, que es muy bueno.</p>
+
+<p>-¿Y quién fue ese Flas Sanctorum? -replicó <persName key="sancho">Sancho</persName>-. Fue rey o algún gigante de aquellos que se tornaron molinos ahora un año?</p>
+
+<p>-Todavía, <persName key="sancho">Sancho</persName> -dijo <persName key="quijote">don Quijote</persName>-, eres necio y rudo. Este libro trata de las vidas de los santos, como de <persName>san Lorenzo</persName>, que fue asado; de <persName>san Bartolomé</persName>, que fue desollado; de <persName>santa Catalina</persName>, que fue pasada por la rueda de las navajas; y así mismo, de todos los demás santos y mártires de todo el año. Siéntate, y leerte he la vida del santo que hoy, a veinte de agosto, celebra la Iglesia, que es <persName>san Bernardo</persName>.</p>
+
+<p>-Par Dios -dijo <persName key="sancho">Sancho</persName>-, que yo no soy amigo de saber vidas ajenas, y más de mala gana me dejaría quitar el pellejo ni asar...</p>
+</body>
+</text>
+</TEI>
